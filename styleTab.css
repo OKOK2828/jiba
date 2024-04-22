@@ -20,7 +20,7 @@
   header .back{
       width: 100vw;
       height: 100vh;
-      background-image: url(./media/headerBack2blur.jpg);
+      background-color: black;
       background-position: center;
   }
 
